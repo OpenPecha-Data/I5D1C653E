@@ -1,0 +1,39 @@
+id: I5D1C653E
+source: https://sakyaresearch.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-19T13:16:44.728294'
+last_modified: '2022-06-19T13:16:44.728327'
+parser: null
+source_metadata:
+  title: Hagiography of Grub chen Buddhaśrī (1339–1419/20); Lamdre Lobshe, vol. ka,
+    title no. 20, from the chronological biographies of the Lamdre lineage masters
+  author: ངོར་ཆེན་ཀུན་དགའ་བཟང་པོ།
+  description: 'Digital version 2.0 {Tibetan}; master xml (completed: 2013-08-19);
+    converted from external file, unrevised, spell-checked, thematic TEI markup'
+  file_info:
+  - 'Language: Tibetan'
+  - 'Coverage: Full Text'
+  - 'Accessible: publicly'
+  responibilities:
+  - Digital edition:ས་སྐྱ་ཞིབ་འཇུག་ཁང་། (src)
+  - Text input:རྫོང་སར་ཁམས་བྱེའི་ལྔ་རིག་སློབ་གླིང་། སྡེ་དགེ་རྫོང་སར། (dzkj)
+  - Editorial process:Mathias Fermer (mf), Kunga Dorje (kun)
+  - TEI Encoding:ས་སྐྱ་ཞིབ་འཇུག་ཁང་།
+  - TEI Markup:Mathias Fermer (mf)
+  - Revisions/Corrections:-
+  text_witnesses: https://sakyaresearch.org/sources/372
+  bases:
+    6f6b:
+      title: Hagiography of Grub chen Buddhaśrī (1339–1419/20); Lamdre Lobshe, vol.
+        ka, title no. 20, from the chronological biographies of the Lamdre lineage
+        masters
+      order: 1
+      base_file: 6f6b.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
